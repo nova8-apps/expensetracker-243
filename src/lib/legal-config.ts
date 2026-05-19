@@ -12,7 +12,7 @@
 export const LEGAL_CONFIG = {
   displayName: "ExpenseTracker",
   legalName: "",
-  contactEmail: "privacy@nova8.dev",
+  contactEmail: "connerclark456@gmail.com",
   website: "",
   country: "",
   hostedPolicyUrl: "https://nova8.dev/privacy/243",
